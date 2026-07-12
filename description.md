@@ -1,13 +1,5 @@
 # Analisis Viralitas Instagram Reels
 
-## Repository Outline
-1. README.md - Penjelasan umum project analisis Instagram Reels
-2. P0M1_mochamad_firdaus.ipynb - Notebook berisi proses eksplorasi data, visualisasi, dan analisis statistik
-3. P0M1_mochamad_firdaus_dataset.csv - Dataset performa Instagram Reels
-4. description.md - Penjelasan singkat mengenai project
-
----
-
 ## Problem Background
 Instagram Reels menjadi salah satu fitur media sosial yang banyak digunakan untuk distribusi konten digital. Namun, performa konten sering dianggap tidak konsisten karena terdapat perbedaan besar pada jumlah views dan engagement meskipun jenis kontennya serupa.
 
